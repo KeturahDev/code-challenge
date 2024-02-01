@@ -1,5 +1,5 @@
 const quote = 'Smart people learn from everything and everyone, average people from their experience, stupid people already, have all the answers';
-const quote2 = 'We cannot solve problems with the kind of thinking we employed when we came up with them';
+const quote2 = 'We cannot solve problems with the kind of thinkinnnng we employed when we came up with them';
 
 const vowelsOnly = (word) => {
   return word.replaceAll(/[^aeiouAEIOU]/g, '')
